@@ -1,0 +1,6 @@
+if SHIELD_RADIANCE
+
+config ZMK_KEYBOARD_NAME
+    default "Radiance"
+
+endif
